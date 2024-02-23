@@ -19,3 +19,4 @@
 
 - [ ] feladat 1
 - [x] feladat 2
+- [x] feladat 2
